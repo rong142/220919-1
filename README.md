@@ -7,12 +7,18 @@
 
 🚋 📈 ✈️ 🥇 🥈 🥉
 
-![nkust.png](PNG,"國立高雄科技大學")
+![nkust.png](nkust.png "國立高雄科技大學")
 
--[ ]list
--[X]train
--[X]airplane
+- [ ] list
+- [X] train
+- [X] airplane
 
 ```python
 s = "python Syntax Hightlignting"
 print(s)
+```
+
+| Lift  | Center  | Right  |
+| :--------  | :---------:  | ---------:  |
+| col 3 is  | some wordy text  | $1600  |
+| col 2 is | centered | 
