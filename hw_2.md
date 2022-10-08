@@ -14,7 +14,6 @@
 | 11 | 使用者測試 | 25 | 9,10 |
 
 ***
-# PERT/CPM
 ![PERT/CPM](PERT.png "PERT")
 ***
 
@@ -59,6 +58,5 @@ gantt
 
 
 
-# 關鍵路徑
 ---
-![image](關鍵.png)
+![image](關鍵路徑.png)
