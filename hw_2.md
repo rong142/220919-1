@@ -61,4 +61,4 @@ gantt
 
 # 關鍵路徑
 ---
-![CPM_img 圖](關鍵.png)
+![image](關鍵.png)
