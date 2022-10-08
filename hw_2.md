@@ -15,7 +15,7 @@
 
 ***
 # PERT/CPM
-![PERT/CPM](PERT.jpg "PERT")
+![PERT/CPM](PERT.png "PERT")
 ***
 
 
@@ -61,4 +61,4 @@ gantt
 
 # 關鍵路徑
 ---
-![CPM_img 圖](關鍵.jpg)
+![CPM_img 圖](關鍵.png)
